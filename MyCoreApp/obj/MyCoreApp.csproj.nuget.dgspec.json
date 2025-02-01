@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Documents\\SVHOOL\\SEM5\\Data Warehouse\\assignmetn2\\MyCoreApp\\MyCoreApp.csproj": {}
+    "C:\\Users\\Leo\\DevOps\\coreapp\\MyCoreApp\\MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Documents\\SVHOOL\\SEM5\\Data Warehouse\\assignmetn2\\MyCoreApp\\MyCoreApp.csproj": {
+    "C:\\Users\\Leo\\DevOps\\coreapp\\MyCoreApp\\MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Documents\\SVHOOL\\SEM5\\Data Warehouse\\assignmetn2\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Leo\\DevOps\\coreapp\\MyCoreApp\\MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\Leo\\Documents\\SVHOOL\\SEM5\\Data Warehouse\\assignmetn2\\MyCoreApp\\MyCoreApp.csproj",
+        "projectPath": "C:\\Users\\Leo\\DevOps\\coreapp\\MyCoreApp\\MyCoreApp.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Documents\\SVHOOL\\SEM5\\Data Warehouse\\assignmetn2\\MyCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Leo\\DevOps\\coreapp\\MyCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
